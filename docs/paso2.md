@@ -22,17 +22,24 @@
 1. Dentro del módulo de **Ajustes**, busca la opción **Usuarios y Empresas** y selecciona **Usuarios**.
 2. Haz clic en el botón **Crear** para añadir un nuevo usuario.
 3. Rellena los siguientes campos:
-   - **Nombre**: Ingresa el nombre del usuario, como **Ana María Rodríguez Mendez** o **Rimsha**.
+   - **Nombre**: Ingresa el nombre del usuario, como **Ana María Rodríguez Mendez** y **Rimsha**.
    - **Grupo de usuarios**: Puedes asignar roles a los usuarios como "Empleado", "Gerente", "Portavoz", etc.
    - **Accesos al sistema**: Marca la opción de acceso como "Activo" para habilitar al usuario.
 4. **Guardar** el usuario.
 
 #### Imágenes de los Usuarios del Sistema:
-- ![compra1](/site/img/1.png)
-- ![compra1](/site/img/2.png)
-- ![compra1](/site/img/3.png)
-- ![compra1](/site/img/4.png)
-- ![compra1](/site/img/5.png)
+- Creamos el primer usuario **Ana María Rodríguez Mendez**.
+  
+  ![compra1](/site/img/1.png)
+  
+- Creamos el primer usuario **Rimsha**.
+  
+  ![compra1](/site/img/4.png)
+
+  
+- Aspecto final de los usuarios del sistema.
+
+  ![compra1](/site/img/5.png)
 
 
 ---
