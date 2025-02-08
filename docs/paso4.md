@@ -144,14 +144,17 @@ Cuando los productos llegan a nuestro almacén, se realiza la recepción en Odoo
 ## 7. Captura de productos con nueva cantidad de stock  
 
 Después de completar la recepción de productos, el stock de la empresa se actualiza automáticamente en Odoo.  
+ 
+Stock de **Cable de red RJ45 CAT8 U/FTP AWG 30**  
 
-Stock de **Cable RJ45**
 ![compra1](/site/img/compra5.png)
 
-Stock de **Xiamomi outdoor Camera**
+Stock de **Xiaomi Outdoor Camera IP WiF**  
+
 ![compra1](/site/img/compra6.png)
 
-Stock de **Apple Airpods**
+Stock de **Apple AirPods 4 con Cancelación Activa**  
+
 ![compra1](/site/img/compra7.png)
 
 Stock de **Portátil ACER 3 15**
