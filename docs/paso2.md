@@ -1,4 +1,4 @@
-# Paso 2 - Usuarios: Alta de Usuarios del Sistema, Empleados, Clientes y Proveedores
+# Usuarios: Alta de Usuarios del Sistema, Empleados, Clientes y Proveedores
 
 ## Tabla de Contenidos
 
@@ -70,7 +70,7 @@
    - **Gerente**: Ingresa el nombre de **Rimsha**.
      
 6. Aspecto final de los **empleados**.
-
+   ![compra1](/site/img/6.png)
 
 ---
 
