@@ -22,9 +22,7 @@
 1. Dentro del módulo de **Ajustes**, busca la opción **Usuarios y Empresas** y selecciona **Usuarios**.
 2. Haz clic en el botón **Crear** para añadir un nuevo usuario.
 3. Rellena los siguientes campos:
-   - **Nombre**: Ingresa el nombre del usuario, como **Ana María Rodríguez Mendez** y **Rimsha**.
-   - **Grupo de usuarios**: Puedes asignar roles a los usuarios como "Empleado", "Gerente", "Portavoz", etc.
-   - **Accesos al sistema**: Marca la opción de acceso como "Activo" para habilitar al usuario.
+   - **Nombre**: Ingresa el nombre del usuario, en nuestro caso son: **Ana María Rodríguez Mendez** y **Rimsha**.
 4. **Guardar** el usuario.
 
 #### Imágenes de los Usuarios del Sistema:
@@ -57,11 +55,22 @@
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Portavoz**.
    - **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.
-2. Repite el proceso para **Laura Alonso Borbolla** (Secretaria), **Mario Fernández Puente** (Investigador) y **Rimsha** (Responsable de Ventas y Productos).
-3. Asegúrate de que los **empleados sean usuarios activos** si se requiere acceso a Odoo.
+     ![compra1](/site/img/5.png)
+2. Para crear a **Laura Alonso Borbolla**:
+   - **Departamento**: Selecciona **Informática**.
+   - **Puesto de trabajo**: Asigna **Secretaria**.
+   - **Gerente**: Ingresa el nombre de **Laura Alonso Borbolla**.
+3. Para crear a **Mario Fernández Puente**:
+   - **Departamento**: Selecciona **Informática**.
+   - **Puesto de trabajo**: Asigna **Investigador**.
+   - **Gerente**: Ingresa el nombre de **Mario Fernández Puente**.
+4. Para crear a **Rimsha**:
+   - **Departamento**: Selecciona **Ventas**.
+   - **Puesto de trabajo**: Asigna **Responsable de Ventas y Productos**.
+   - **Gerente**: Ingresa el nombre de **Rimsha**.
+     
+6. Aspecto final de los **empleados**.
 
-#### Imágenes de los Empleados:
-- *Aquí debes incluir las capturas de pantalla del proceso de creación de los empleados*.
 
 ---
 
