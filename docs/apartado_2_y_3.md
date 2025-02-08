@@ -26,39 +26,39 @@ Odoo permite asignar permisos a través de grupos de usuarios:
 
 ## Usuarios
 
-![1](/ProyectoASIR2-e4/site/img/1.png)
+ ![compra1](/site/img/1.png)
 
-![2](/ProyectoASIR2-e4/site/img/2.png)
+ ![compra1](/site/img/2.png)
 
-![3](/ProyectoASIR2-e4/site/img/3.png)
+ ![compra1](/site/img/3.png)
 
-![4](/ProyectoASIR2-e4/site/img/4.png)
+ ![compra1](/site/img/4.png)
 
-![5](/ProyectoASIR2-e4/site/img/5.png)
+ ![compra1](/site/img/5.png)
 
 ## Empleados
 
-![6](/ProyectoASIR2-e4/site/img/6.png)
+ ![compra1](/site/img/6.png)
 
 ## Proveedores
 
-![7](/ProyectoASIR2-e4/site/img/7.png)
+ ![compra1](/site/img/7.png)
 
-![8](/ProyectoASIR2-e4/site/img/8.png)
+ ![compra1](/site/img/8.png)
 
-![9](/ProyectoASIR2-e4/site/img/9.png)
+ ![compra1](/site/img/9.png)
 
 ## Clientes
 
-![10](/ProyectoASIR2-e4/site/img/10.png)
+ ![compra1](/site/img/10.png)
 
-![11](/ProyectoASIR2-e4/site/img/11.png)
+ ![compra1](/site/img/11.png)
 
-![12](/ProyectoASIR2-e4/site/img/12.png)
+ ![compra1](/site/img/12.png)
 
-![13](/ProyectoASIR2-e4/site/img/13.png)
+ ![compra1](/site/img/13.png)
 
-![14](/ProyectoASIR2-e4/site/img/14.png)
+ ![compra1](/site/img/14.png)
 
 ## Creación y Gestión del Inventario en Odoo
 
@@ -71,7 +71,7 @@ Odoo permite asignar permisos a través de grupos de usuarios:
    - **Tipo de Categoría**: Puede ser utilizada para agrupar productos similares.
    - **Cuenta de Ingresos y Gastos**: Configuración contable opcional.
 
-![15](/ProyectoASIR2-e4/site/img/15.png)
+ ![compra1](/site/img/15.png)
 
 
 ### 2. Crear una Subcategoría
@@ -80,7 +80,7 @@ Odoo permite asignar permisos a través de grupos de usuarios:
 3. Completar los detalles de la subcategoría.
 4. Guardar los cambios.
 
-![16](/ProyectoASIR2-e4/site/img/16.png)
+ ![compra1](/site/img/16.png)
 
 
 ### 2. Crear un Producto
@@ -98,60 +98,60 @@ Odoo permite asignar permisos a través de grupos de usuarios:
 
 ### Sistema Operativo
 
-![17](/ProyectoASIR2-e4/site/img/17.png)
+ ![compra1](/site/img/17.png)
 
 ### Aplicaciones
 
-![18](/ProyectoASIR2-e4/site/img/18.png)
+ ![compra1](/site/img/18.png)
 
 ### Antivirus
 
-![19](/ProyectoASIR2-e4/site/img/19.png)
+ ![compra1](/site/img/19.png)
 
 ## Redes y Conectividad  
 
 ### Router
 
-![20](/ProyectoASIR2-e4/site/img/20.png)
+ ![compra1](/site/img/20.png)
 
 ### Switch
 
-![21](/ProyectoASIR2-e4/site/img/21.png)
+ ![compra1](/site/img/21.png)
 
 ### Tarjetas de Red
 
-![22](/ProyectoASIR2-e4/site/img/22.png)
+ ![compra1](/site/img/22.png)
 
 ### Servidor
 
-![23](/ProyectoASIR2-e4/site/img/23.png)
+ ![compra1](/site/img/23.png)
 
 ### Cable Ethernet
 
-![24](/ProyectoASIR2-e4/site/img/24.png)
+ ![compra1](/site/img/24.png)
 
 ## Electrónica
 
 ### Auriculares
 
-![25](/ProyectoASIR2-e4/site/img/25.png)
+ ![compra1](/site/img/25.png)
 
 ### Camara
 
-![26](/ProyectoASIR2-e4/site/img/26.png)
+ ![compra1](/site/img/26.png)
 
 ### Cargador
 
-![27](/ProyectoASIR2-e4/site/img/27.png)
+ ![compra1](/site/img/27.png)
 
 ### Móviles
 
-![28](/ProyectoASIR2-e4/site/img/28.png)
+ ![compra1](/site/img/28.png)
 
 ### Relojes Inteligentes
 
-![29](/ProyectoASIR2-e4/site/img/29.png)
+ ![compra1](/site/img/29.png)
 
 ## Portátiles
 
-![30](/ProyectoASIR2-e4/site/img/30.png)
+ ![compra1](/site/img/30.png)
