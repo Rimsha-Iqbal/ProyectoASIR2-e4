@@ -10,7 +10,7 @@
 2. [Creación de Productos](#2-creación-de-productos)  
    - [Paso 1: Acceder al Módulo de Inventario](#paso-1-acceder-al-módulo-de-inventario-1)  
    - [Paso 2: Crear Productos y Asignarlos a Categorías](#paso-2-crear-productos-y-asignarlos-a-categorías)  
-   - [Ejemplos de Productos](#ejemplos-de-productos)  
+   - [Ejemplos de Productos](#Dar-ALta-de-Cinco-Productos)  
 
 ---
 
