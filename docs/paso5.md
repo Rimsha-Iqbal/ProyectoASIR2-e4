@@ -15,6 +15,7 @@ En este paso, realizaremos una **venta** en el sistema Odoo. Para ello, utilizar
 
 Realizar un **proceso de ventas eficiente** es crucial para mantener una buena relación con los clientes y garantizar un flujo constante de ingresos. En este paso, aprenderemos cómo gestionar correctamente un pedido, asegurando que los productos vendidos estén correctamente registrados y entregados.
 
+![compra1](/site/img/pedidos.png)
 ---
 
 ## Creación de un Pedido de Venta
@@ -51,6 +52,8 @@ Realizar un **proceso de ventas eficiente** es crucial para mantener una buena r
 
 Registrar correctamente los productos vendidos es fundamental para mantener una gestión adecuada del inventario y evitar errores en la facturación.
 
+![compra1](/site/img/venta2.png)
+
 ---
 
 ## Facturación del Pedido
@@ -65,10 +68,14 @@ Después de crear el pedido, procederemos a su facturación:
    - **AW300:**
      - **Cantidad facturada:** 5  
      - **Precio por unidad:** 45,99€  
-     - **Impuesto:** 21%  
+     - **Impuesto:** 21%
+       ![compra1](/site/img/venta3.png)  
 4. Confirmar la factura y registrar el pago.
 
 Un proceso de facturación correcto garantiza que la empresa mantenga un control adecuado sobre sus ingresos y facilite la contabilidad.
+
+
+![compra1](/site/img/factura.png)
 
 ---
 
@@ -81,10 +88,19 @@ Una vez facturado el pedido, es necesario gestionar la entrega:
 
 Gestionar correctamente la entrega de productos ayuda a evitar retrasos y mejora la experiencia del cliente.
 
+![compra1](/site/img/entregada.png)  
+
+
 ---
 
 ## Capturas de Pantalla
-- **Captura del stock actualizado tras la venta** 
+- **Captura del stock actualizado de Cable RJ45**
+  
+   ![compra1](/site/img/stock-RJ45.png)
+  
+- **Captura del stock actualizado de Xiomi Cámara**
+
+  ![compra1](/site/img/stock-camera.png)
  
 
 ---
@@ -99,4 +115,5 @@ Para obtener más información sobre el proceso de ventas en Odoo, consulta los 
 
 ---
 
-✅ **Con esto hemos finalizado el proceso de venta en Odoo.** Ahora, nuestro pedido ha sido creado, facturado y entregado con éxito. ��� Mantener un flujo de ventas eficiente es clave para el crecimiento de cualquier empresa. ¡Buen trabajo! 
+**Con esto hemos finalizado el proceso de venta en Odoo.** Ahora, nuestro pedido ha sido creado, facturado y entregado con éxito.  
+Mantener un flujo de ventas eficiente es clave para el crecimiento de cualquier empresa. ¡Buen trabajo! 
