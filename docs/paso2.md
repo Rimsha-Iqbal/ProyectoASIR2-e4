@@ -87,7 +87,8 @@
      ![compra1](/site/img/rim-u.png)
 
      
-6. Aspecto final de los **empleados**.
+6. #### Imágenes de los Empleados
+   Aspecto final de los **empleados**.
    ![compra1](/site/img/empleados.png)
 
 ---
