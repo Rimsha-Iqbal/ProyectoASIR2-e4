@@ -1,6 +1,6 @@
 #  GESTI√ìN DE UNA COMPRA - PEDIDOS A PROVEEDORES  
 
-## Ì≥å Tabla de Contenido  
+## Tabla de Contenido  
 
 1. [Introducci√≥n](#1-introducci√≥n)  
 2. [Creaci√≥n de un pedido de compra](#2-creaci√≥n-de-un-pedido-de-compra)  
@@ -22,8 +22,11 @@ La gesti√≥n de compras en Odoo es un proceso clave para mantener un flujo de sto
 - Recibir productos en el almac√©n y verificar su stock.  
 
 El prop√≥sito de este proceso es garantizar que nuestra empresa pueda abastecerse de los productos necesarios para su funcionamiento y posterior venta.  
+![login-odoo](/site/img/login-odoo.PNG)
 
-Ì≥å *Aqu√≠ insertar captura de los productos antes de la compra*  
+![compra1](/site/img/compra1.png)
+
+
 
 ---
 
@@ -76,7 +79,7 @@ Para realizar un pedido de compra en Odoo, sigue estos pasos:
 - **IVA (21%)**: 455,70 ‚Ç¨  
 - **Total**: 2.625,70 ‚Ç¨  
 
-Ì≥å *Aqu√≠ insertar captura del pedido de compra P00001*  
+ÔøΩÔøΩÔøΩ *Aqu√≠ insertar captura del pedido de compra P00001*  
 
 ---
 
@@ -90,7 +93,7 @@ Una vez confirmado el pedido, los productos deben ser recibidos en el almac√©n.
 - **Fecha l√≠mite**: 07/02/2025 09:00:09  
 - **Documento de origen**: PS00001  
 
-Ì≥å *Aqu√≠ insertar captura de la recepci√≥n de productos WH/IN/00001*  
+ÔøΩÔøΩÔøΩ *Aqu√≠ insertar captura de la recepci√≥n de productos WH/IN/00001*  
 
 ---
 
@@ -122,7 +125,7 @@ En este caso, realizamos un nuevo pedido con diferentes productos.
 - **IVA (21%)**: 136,50 ‚Ç¨  
 - **Total**: 2.786,50 ‚Ç¨  
 
-Ì≥å *Aqu√≠ insertar captura del pedido de compra P00003*  
+ÔøΩÔøΩÔøΩ *Aqu√≠ insertar captura del pedido de compra P00003*  
 
 ---
 
@@ -133,7 +136,7 @@ Cuando los productos llegan a nuestro almac√©n, se realiza la recepci√≥n en Odoo
 - **Recibir de**: PC Componentes  
 - **Tipo de operaci√≥n**: Electroshop S.L. Recepciones  
 
-Ì≥å *Aqu√≠ insertar captura de la recepci√≥n de productos S00009*  
+ÔøΩÔøΩÔøΩ *Aqu√≠ insertar captura de la recepci√≥n de productos S00009*  
 
 ---
 
@@ -141,7 +144,7 @@ Cuando los productos llegan a nuestro almac√©n, se realiza la recepci√≥n en Odoo
 
 Despu√©s de completar la recepci√≥n de productos, el stock de la empresa se actualiza autom√°ticamente en Odoo.  
 
-Ì≥å *Aqu√≠ insertar captura del stock actualizado*  
+ÔøΩÔøΩÔøΩ *Aqu√≠ insertar captura del stock actualizado*  
 
 ---
 
@@ -149,10 +152,10 @@ Despu√©s de completar la recepci√≥n de productos, el stock de la empresa se actu
 
 Si deseas profundizar en la gesti√≥n de compras en Odoo, aqu√≠ tienes algunos tutoriales √∫tiles:  
 
-- [Ì≥å ODOO Compras | Crear un pedido de compras sin realizar una solicitud de compra previa](https://www.youtube.com/watch?v=GepL1n_iAm8)  
-- [Ì≥å ODOO Compras | Entrada total de mercanc√≠a en Odoo](https://www.youtube.com/watch?v=B9H3Ere0Scg)  
-- [Ì≥å ODOO Compras | C√≥mo crear una solicitud de presupuesto](https://www.youtube.com/watch?v=JaqXeini4gY)  
-- [Ì≥å ODOO Compras | C√≥mo imprimir una solicitud de compra](https://www.youtube.com/watch?v=yZr_knHGLKQ)  
+- [ÔøΩÔøΩÔøΩ ODOO Compras | Crear un pedido de compras sin realizar una solicitud de compra previa](https://www.youtube.com/watch?v=GepL1n_iAm8)  
+- [ÔøΩÔøΩÔøΩ ODOO Compras | Entrada total de mercanc√≠a en Odoo](https://www.youtube.com/watch?v=B9H3Ere0Scg)  
+- [ÔøΩÔøΩÔøΩ ODOO Compras | C√≥mo crear una solicitud de presupuesto](https://www.youtube.com/watch?v=JaqXeini4gY)  
+- [ÔøΩÔøΩÔøΩ ODOO Compras | C√≥mo imprimir una solicitud de compra](https://www.youtube.com/watch?v=yZr_knHGLKQ)  
 
 ---
 
@@ -160,4 +163,4 @@ Si deseas profundizar en la gesti√≥n de compras en Odoo, aqu√≠ tienes algunos tu
 
 La gesti√≥n de compras en Odoo permite un control eficiente del inventario, asegurando que la empresa siempre tenga productos disponibles para la venta. Mediante la correcta ejecuci√≥n de pedidos y recepciones, garantizamos un flujo de trabajo organizado y optimizado.  
 
-Este proceso es fundamental para mejorar la log√≠stica y la administraci√≥n de recursos dentro de la compa√±√≠a. Ì∫Ä  
+Este proceso es fundamental para mejorar la log√≠stica y la administraci√≥n de recursos dentro de la compa√±√≠a. ÔøΩÔøΩÔøΩ  
