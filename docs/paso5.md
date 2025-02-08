@@ -84,11 +84,8 @@ Gestionar correctamente la entrega de productos ayuda a evitar retrasos y mejora
 ---
 
 ## Capturas de Pantalla
-_Añadir aquí:_
-- **Captura del pedido de venta en Odoo** 
-- **Captura de la factura generada** 
-- **Captura del stock actualizado tras la venta**
-- **Captura de la confirmación de entrega** 
+- **Captura del stock actualizado tras la venta** 
+ 
 
 ---
 
@@ -102,4 +99,4 @@ Para obtener más información sobre el proceso de ventas en Odoo, consulta los 
 
 ---
 
-✅ **Con esto hemos finalizado el proceso de venta en Odoo.** Ahora, nuestro pedido ha sido creado, facturado y entregado con éxito. ��� Mantener un flujo de ventas eficiente es clave para el crecimiento de cualquier empresa. ¡Buen trabajo! 
+✅ **Con esto hemos finalizado el proceso de venta en Odoo.** Ahora, nuestro pedido ha sido creado, facturado y entregado con éxito. ��� Mantener un flujo de ventas eficiente es clave para el crecimiento de cualquier empresa. ¡Buen trabajo! 
