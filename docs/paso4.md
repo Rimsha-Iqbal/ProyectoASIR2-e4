@@ -22,7 +22,7 @@ La gestión de compras en Odoo es un proceso clave para mantener un flujo de sto
 - Recibir productos en el almacén y verificar su stock.  
 
 El propósito de este proceso es garantizar que nuestra empresa pueda abastecerse de los productos necesarios para su funcionamiento y posterior venta.  
-![login-odoo](/site/img/login-odoo.PNG)
+
 
 ![compra1](/site/img/compra1.png)
 
@@ -35,11 +35,12 @@ El propósito de este proceso es garantizar que nuestra empresa pueda abastecers
 Para realizar un pedido de compra en Odoo, sigue estos pasos:  
 
 1. Ir al módulo de **Compras**.  
-2. Acceder a **Productos de ventas**.  
-3. Hacer clic en **"Nuevo"** para crear un pedido de compra.  
-4. Ingresar la información del proveedor, la moneda y la fecha de confirmación.  
-5. Agregar los productos deseados, especificando cantidad y precio por unidad.  
-6. Confirmar el pedido y revisar los detalles antes de su procesamiento.  
+2. Acceder a **Productos de ventas**. 
+   ![compra1](/site/img/compra0.png)
+4. Hacer clic en **"Nuevo"** para crear un pedido de compra.  
+5. Ingresar la información del proveedor, la moneda y la fecha de confirmación.  
+6. Agregar los productos deseados, especificando cantidad y precio por unidad.  
+7. Confirmar el pedido y revisar los detalles antes de su procesamiento.  
 
 ---
 
@@ -79,7 +80,7 @@ Para realizar un pedido de compra en Odoo, sigue estos pasos:
 - **IVA (21%)**: 455,70 €  
 - **Total**: 2.625,70 €  
 
-��� *Aquí insertar captura del pedido de compra P00001*  
+![compra1](/site/img/compra3.png)
 
 ---
 
@@ -93,7 +94,7 @@ Una vez confirmado el pedido, los productos deben ser recibidos en el almacén.
 - **Fecha límite**: 07/02/2025 09:00:09  
 - **Documento de origen**: PS00001  
 
-��� *Aquí insertar captura de la recepción de productos WH/IN/00001*  
+![compra1](/site/img/WH-IN-00001.png) 
 
 ---
 
@@ -125,18 +126,18 @@ En este caso, realizamos un nuevo pedido con diferentes productos.
 - **IVA (21%)**: 136,50 €  
 - **Total**: 2.786,50 €  
 
-��� *Aquí insertar captura del pedido de compra P00003*  
+  ![compra1](/site/img/compra4.png)
 
 ---
 
-## 6. Recepción de productos (S00009)  
+## 6. Recepción de productos (WH/IN/00002)  
 
 Cuando los productos llegan a nuestro almacén, se realiza la recepción en Odoo.  
 
 - **Recibir de**: PC Componentes  
 - **Tipo de operación**: Electroshop S.L. Recepciones  
 
-��� *Aquí insertar captura de la recepción de productos S00009*  
+![compra1](/site/img/WH-IN-00001.png) 
 
 ---
 
@@ -144,7 +145,20 @@ Cuando los productos llegan a nuestro almacén, se realiza la recepción en Odoo
 
 Después de completar la recepción de productos, el stock de la empresa se actualiza automáticamente en Odoo.  
 
-��� *Aquí insertar captura del stock actualizado*  
+Stock de **Cable RJ45**
+![compra1](/site/img/compra5.png)
+
+Stock de **Xiamomi outdoor Camera**
+![compra1](/site/img/compra6.png)
+
+Stock de **Apple Airpods**
+![compra1](/site/img/compra7.png)
+
+Stock de **Portátil ACER 3 15**
+
+![compra1](/site/img/compra8.png)  
+
+
 
 ---
 
@@ -152,10 +166,10 @@ Después de completar la recepción de productos, el stock de la empresa se actu
 
 Si deseas profundizar en la gestión de compras en Odoo, aquí tienes algunos tutoriales útiles:  
 
-- [��� ODOO Compras | Crear un pedido de compras sin realizar una solicitud de compra previa](https://www.youtube.com/watch?v=GepL1n_iAm8)  
-- [��� ODOO Compras | Entrada total de mercancía en Odoo](https://www.youtube.com/watch?v=B9H3Ere0Scg)  
-- [��� ODOO Compras | Cómo crear una solicitud de presupuesto](https://www.youtube.com/watch?v=JaqXeini4gY)  
-- [��� ODOO Compras | Cómo imprimir una solicitud de compra](https://www.youtube.com/watch?v=yZr_knHGLKQ)  
+- [ODOO Compras | Crear un pedido de compras sin realizar una solicitud de compra previa](https://www.youtube.com/watch?v=GepL1n_iAm8)  
+- [ODOO Compras | Entrada total de mercancía en Odoo](https://www.youtube.com/watch?v=B9H3Ere0Scg)  
+- [ODOO Compras | Cómo crear una solicitud de presupuesto](https://www.youtube.com/watch?v=JaqXeini4gY)  
+- [ODOO Compras | Cómo imprimir una solicitud de compra](https://www.youtube.com/watch?v=yZr_knHGLKQ)  
 
 ---
 
@@ -163,4 +177,4 @@ Si deseas profundizar en la gestión de compras en Odoo, aquí tienes algunos tu
 
 La gestión de compras en Odoo permite un control eficiente del inventario, asegurando que la empresa siempre tenga productos disponibles para la venta. Mediante la correcta ejecución de pedidos y recepciones, garantizamos un flujo de trabajo organizado y optimizado.  
 
-Este proceso es fundamental para mejorar la logística y la administración de recursos dentro de la compañía. ���  
+Este proceso es fundamental para mejorar la logística y la administración de recursos dentro de la compañía. 
