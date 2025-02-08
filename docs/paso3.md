@@ -115,7 +115,7 @@ Aquí se presentan cinco productos con sus respectivas categorías:
 ![categorias](/site/img/portatil.png)
 
 #### Imágenes de los Productos  
-- ![categorias](/site/img/productos.png)   
+![categorias](/site/img/productos.png)   
 
 ---
 
