@@ -32,7 +32,7 @@
   
   ![compra1](/site/img/1.png)
   
-- Creamos el primer usuario **Rimsha**.
+- Creamos el segundo usuario **Rimsha**.
   
   ![compra1](/site/img/4.png)
 
