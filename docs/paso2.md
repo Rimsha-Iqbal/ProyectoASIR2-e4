@@ -28,7 +28,12 @@
 4. **Guardar** el usuario.
 
 #### Imágenes de los Usuarios del Sistema:
-- *Aquí es donde debes colocar las capturas de pantalla del proceso de creación de los usuarios de Odoo*.
+- ![compra1](/site/img/1.png)
+- ![compra1](/site/img/2.png)
+- ![compra1](/site/img/3.png)
+- ![compra1](/site/img/4.png)
+- ![compra1](/site/img/5.png)
+
 
 ---
 
