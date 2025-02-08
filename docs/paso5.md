@@ -69,8 +69,10 @@ Después de crear el pedido, procederemos a su facturación:
      - **Cantidad facturada:** 5  
      - **Precio por unidad:** 45,99€  
      - **Impuesto:** 21%
-       ![compra1](/site/img/venta3.png)  
+       
 4. Confirmar la factura y registrar el pago.
+
+![compra1](/site/img/venta3.png)  
 
 Un proceso de facturación correcto garantiza que la empresa mantenga un control adecuado sobre sus ingresos y facilite la contabilidad.
 
