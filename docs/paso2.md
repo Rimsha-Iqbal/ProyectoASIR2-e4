@@ -2,11 +2,25 @@
 
 ## Tabla de Contenidos
 
-1. [Creación de Usuarios del Sistema en Odoo](#1-creación-de-usuarios-del-sistema-en-odoo)
-2. [Creación de Empleados](#2-creación-de-empleados)
-3. [Creación de Clientes](#3-creación-de-clientes)
-4. [Creación de Proveedores](#4-creación-de-proveedores)
-5. [Incluir Imágenes de las Capturas de Pantalla](#5-incluir-imágenes-de-las-capturas-de-pantalla)
+1. [Creación de Usuarios del Sistema en Odoo](#1-creación-de-usuarios-del-sistema-en-odoo)  
+   - [Paso 1: Acceder al Módulo de Ajustes](#paso-1-acceder-al-módulo-de-ajustes)  
+   - [Paso 2: Crear un Nuevo Usuario](#paso-2-crear-un-nuevo-usuario)  
+   - [Imágenes de los Usuarios del Sistema](#imágenes-de-los-usuarios-del-sistema)  
+
+2. [Creación de Empleados](#2-creación-de-empleados)  
+   - [Paso 1: Acceder al Módulo de Empleados](#paso-1-acceder-al-módulo-de-empleados)  
+   - [Paso 2: Crear los Empleados](#paso-2-crear-los-empleados)  
+   - [Imágenes de los Empleados](#imágenes-de-los-empleados)  
+
+3. [Creación de Clientes](#3-creación-de-clientes)  
+   - [Paso 1: Acceder al Módulo de Facturación](#paso-1-acceder-al-módulo-de-facturación)  
+   - [Paso 2: Crear Clientes](#paso-2-crear-clientes)  
+   - [Imágenes de los Clientes](#imágenes-de-los-clientes)  
+
+4. [Creación de Proveedores](#4-creación-de-proveedores)  
+   - [Paso 1: Acceder al Módulo de Compras](#paso-1-acceder-al-módulo-de-compras)  
+   - [Paso 2: Crear Proveedores](#paso-2-crear-proveedores)  
+   - [Imágenes de los Proveedores](#imágenes-de-los-proveedores)
 
 ---
 
@@ -55,22 +69,26 @@
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Portavoz**.
    - **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.
-     ![compra1](/site/img/5.png)
+     ![compra1](/site/img/Ana-u.png)
 2. Para crear a **Laura Alonso Borbolla**:
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Secretaria**.
    - **Gerente**: Ingresa el nombre de **Laura Alonso Borbolla**.
+     ![compra1](/site/img/laura-u.png)
 3. Para crear a **Mario Fernández Puente**:
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Investigador**.
    - **Gerente**: Ingresa el nombre de **Mario Fernández Puente**.
+     ![compra1](/site/img/mario-u.png)
 4. Para crear a **Rimsha**:
    - **Departamento**: Selecciona **Ventas**.
    - **Puesto de trabajo**: Asigna **Responsable de Ventas y Productos**.
    - **Gerente**: Ingresa el nombre de **Rimsha**.
+     ![compra1](/site/img/rim-u.png)
+
      
 6. Aspecto final de los **empleados**.
-   ![compra1](/site/img/6.png)
+   ![compra1](/site/img/empleados.png)
 
 ---
 
@@ -90,17 +108,32 @@
      - **Correo Electrónico**: micros@abmicros.com
      - **Sitio Web**: [ABMICROS](https://empresite.eleconomista.es/ABMICROS-INTERNET.html)
      - **Etiquetas**: AB1
-   - Repite el proceso para **ENTER Soluciones Informáticas**.
+       ![compra1](/site/img/abmicros.png)
+   - Para **ENTER SOLUCIONES INFORMÁTOCAS**:
+     - **Dirección**: Plaza de las Autonomias, 5 ground floor, 39300, Torrelavega
+     - **Teléfono**: 42 808 505
+     - **Correo Electrónico**: administracion@entersolucionesinformaticas.com
+     - **Sitio Web**: [ENTER SOLUCIONES INFORMÁTOCAS](https://entersolucionesinformaticas.com/enter)
+     - **Etiquetas**: ENI1
+       ![compra1](/site/img/enter.png)
+
 2. **Clientes Individuales**:
    - Para **María Angélica Fernández Roza**:
      - **Dirección**: P.º de Julio Hauzeur, 59, 39300 Torrelavega, Cantabria
      - **Puesto de Trabajo**: Jefa
      - **Teléfono**: 1233456789
      - **Correo Electrónico**: afernandezroza@educantabria.es
-   - Repite el proceso para **Luis Miguel García Velázquez**.
+       ![compra1](/site/img/angelica.png)
+   - Para **Luis Miguel García Velázquez**:
+     - **Dirección**: P.º de Julio Hauzeur, 59, 39300 Torrelavega, Cantabria
+     - **Puesto de Trabajo**: Jefé
+     - **Teléfono**: +34 942 89 03 16
+     - **Correo Electrónico**: lgarciavelazquez@educantabria.es
+       ![compra1](/site/img/luis.png)
 
 #### Imágenes de los Clientes:
-- *Aquí debes incluir las capturas de pantalla del proceso de creación de clientes*.
+- Aspecto final de los **Clientes**
+  ![compra1](/site/img/clientes.png)
 
 ---
 
@@ -120,23 +153,21 @@
      - **Correo Electrónico**: customerservice@mediamarkt.es
      - **Sitio Web**: [Media Markt](https://www.mediamarkt.es/es)
      - **Etiquetas**: MediaM1
-   - Repite el proceso para **PC Componentes**.
+       ![compra1](/site/img/mm.png)
+
+   - Para **PC Componentes**:
+     - **Dirección**: Avda. Europa, Parcelas 2-5 y 2-6 Polígono Industrial Las Salinas, 30840 Alhama de Murcia
+     - **Teléfono**: +34 968 97 79 77
+     - **Correo Electrónico**: support@pccomponentes.com
+     - **Sitio Web**: [PC Componentes](http://web www.pccomponentes.com)
+     - **Etiquetas**: PC1
+       ![compra1](/site/img/PC.png)
 
 #### Imágenes de los Proveedores:
-- *Aquí debes incluir las capturas de pantalla del proceso de creación de proveedores*.
+- Aspecto final de los **Proveedore**
+  ![compra1](/site/img/proveedores.png)
 
 ---
 
-## 5. Incluir Imágenes de las Capturas de Pantalla
 
-Para cada uno de los pasos anteriores, es importante incluir las capturas de pantalla que muestran cómo realizar cada acción dentro de Odoo. Estas imágenes deben colocarse en las secciones correspondientes del markdown, por ejemplo:
-
-- **Para los usuarios**: Captura la pantalla cuando se esté creando el usuario.
-- **Para los empleados**: Toma una captura de la pantalla mostrando los datos del empleado ingresados.
-- **Para los clientes**: Captura la pantalla donde se ingresan los datos del cliente.
-- **Para los proveedores**: Toma una captura del proceso de creación de un proveedor.
-
-Puedes incluir las imágenes utilizando la siguiente sintaxis de markdown:
-```markdown
-![Descripción de la imagen](ruta/de/la/imagen.png)
 
