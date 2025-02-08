@@ -1,17 +1,33 @@
-# Welcome to MkDocs
+#  Guía de Configuración de Odoo (Equipo 4)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
 
-## Commands
+##  Tabla de Contenidos
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. **[Paso 1 - Configuración](paso1.md)**
+   - Información general de la empresa
+   - Instalación de idiomas y módulos
+   - Configuración básica de tu sistema Odoo
 
-## Project layout
+2. **[Paso 2 - Usuarios](paso2.md)**
+   - Creación de usuarios del sistema
+   - Alta de empleados, clientes y proveedores
+   - Definición de roles y derechos de acceso
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+3. **[Paso 3 - Inventario](paso3.md)**
+   - Creación de categorías de productos
+   - Alta de nuevos productos en inventario
+   - Configuración de stock y ubicaciones
+
+4. **[Paso 4 - Gestión de una Compra](paso4.md)**
+   - Creación de pedidos de compra a proveedores
+   - Gestión de proveedores y stock de productos
+   - Manejo de facturas de compra
+
+5. **[Paso 5 - Gestión de una Venta](paso5.md)**
+   - Creación de pedidos de venta a clientes
+   - Gestión de datos de clientes y entrega de productos
+   - Manejo de facturas y pagos
+
+---
+
