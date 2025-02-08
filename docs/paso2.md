@@ -164,9 +164,9 @@
      - **Etiquetas**: PC1
        ![compra1](/site/img/PC.png)
 
-#### Imágenes de los Proveedores:
-- Aspecto final de los **Proveedore**
-  ![compra1](/site/img/proveedores.png)
+   #### Imágenes de los Proveedores:
+   - Aspecto final de los **Proveedore**
+     ![compra1](/site/img/proveedores.png)
 
 ---
 
