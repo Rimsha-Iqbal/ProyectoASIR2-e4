@@ -97,7 +97,7 @@ Aquí se presentan cinco productos con sus respectivas categorías:
 2. **Categoría: Redes y Conectividad / Cable Ethernet**  
    - **Cable de Red RJ45 CAT8 U/FTP AWG 30**  
      - **Características**: Hasta 40Gbps, 20m de longitud.  
-![categorias](/site/img/cable.png)
+![categorias](img/cable.png)
 
 3. **Categoría: Electrónica / Cámara**  
    - **Xiaomi Outdoor Camera AW300**  
@@ -115,7 +115,7 @@ Aquí se presentan cinco productos con sus respectivas categorías:
 ![categorias](img/portatil.png)
 
 #### Imágenes de los Productos  
-![categorias](img/productos.png)   
+   ![categorias](img/productos.png)   
 
 ---
 
