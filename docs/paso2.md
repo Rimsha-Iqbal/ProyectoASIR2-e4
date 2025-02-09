@@ -69,7 +69,7 @@
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Portavoz**.
    - **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.
-     ![compra1](/site/img/Ana-u.png)
+     ![compra1](img/Ana-u.png)
 2. Para crear a **Laura Alonso Borbolla**:
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Secretaria**.
