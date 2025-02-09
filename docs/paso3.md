@@ -63,7 +63,7 @@ Se deben crear las siguientes categorías con sus respectivas subcategorías:
 5. **Electricidad** *(Categoría sin subcategorías específicas)*  
 
 #### Imágenes de la Creación de Categorías:  
- ![categorias](/site/img/categorias.png)  
+ ![categorias](img/categorias.png)  
 
 ---
 
@@ -92,7 +92,7 @@ Aquí se presentan cinco productos con sus respectivas categorías:
 1. **Categoría: Electricidad**  
    - **TV LED 65" - Samsung TU65DU7175UXXC**  
      - **Características**: UHD 4K, Procesador Crystal 4K, Smart TV, DVB-T2 (H.265), Negro.
-![categorias](/site/img/tv.png)
+![categorias](img/tv.png)
 
 2. **Categoría: Redes y Conectividad / Cable Ethernet**  
    - **Cable de Red RJ45 CAT8 U/FTP AWG 30**  
@@ -102,20 +102,20 @@ Aquí se presentan cinco productos con sus respectivas categorías:
 3. **Categoría: Electrónica / Cámara**  
    - **Xiaomi Outdoor Camera AW300**  
      - **Características**: Cámara IP WiFi de vigilancia exterior, resolución 2K.  
-![categorias](/site/img/camara.png)
+![categorias](img/camara.png)
 
 4. **Categoría: Electrónica / Auriculares**  
    - **Apple AirPods 4 con Cancelación Activa de Ruido**  
      - **Características**: Auriculares inalámbricos con estuche de carga, reacondicionado.  
-![categorias](/site/img/airpods.png)
+![categorias](img/airpods.png)
 
 5. **Categoría: Portátiles**  
    - **Portátil Acer Aspire 3 15 A315-44P**  
      - **Características**: AMD Ryzen 7 5700U, 16GB RAM, 512GB SSD, Pantalla de 15.6".  
-![categorias](/site/img/portatil.png)
+![categorias](img/portatil.png)
 
 #### Imágenes de los Productos  
-![categorias](/site/img/productos.png)   
+![categorias](img/productos.png)   
 
 ---
 
