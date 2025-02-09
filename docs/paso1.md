@@ -25,14 +25,14 @@ Tras ingresar, es importante dirigirse al apartado de **Ajustes**, que permite c
 
 En el siguiente paso, es esencial configurar la información relacionada con la compañía. Desde el apartado de **Gestión de Compañía**, se pueden definir elementos clave como el nombre de la empresa, su dirección física y fiscal, y cargar un logotipo u otros elementos visuales que reflejen la identidad corporativa. Estos datos son esenciales, ya que aparecerán en documentos oficiales como facturas, contratos y reportes.
 
-![gestionar-compañia](img/gestionar-compañia.png)
+
 ---
 
 ## 4. Nombre Empresa 
 
 Dentro de las opciones de gestión empresarial, es crucial definir el **nombre de la empresa** correctamente, ya que este será utilizado en los documentos que genera automáticamente Odoo. Este dato es fundamental para garantizar una correcta representación de la identidad corporativa en las comunicaciones oficiales.  
 
-![nombre-empresa](img/nombre-esmpresa.png)
+![gestionar-compañia](img/gestionar-compañia.png)
 ---
 
 ## 5. **idiomas.PNG**
