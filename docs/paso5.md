@@ -98,7 +98,7 @@ Gestionar correctamente la entrega de productos ayuda a evitar retrasos y mejora
 ## Capturas de Pantalla
 - **Captura del stock actualizado de Cable RJ45**
   
-   ![compra1](/site/img/stock-RJ45.png)
+   ![compra1](img/stock-RJ45.png)
   
 - **Captura del stock actualizado de Xiomi Cámara**
 
