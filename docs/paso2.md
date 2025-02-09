@@ -42,16 +42,16 @@
 #### Imágenes de los Usuarios del Sistema:
 - Creamos el primer usuario **Ana María Rodríguez Mendez**.
   
-  ![compra1](/sites/img/1.png)
+  ![compra1](img/1.png)
   
 - Creamos el segundo usuario **Rimsha**.
   
-  ![compra1](/site/img/4.png)
+  ![compra1](img/4.png)
 
   
 - Aspecto final de los usuarios del sistema.
 
-  ![compra1](/site/img/5.png)
+  ![compra1](img/5.png)
 
 
 ---
@@ -74,22 +74,22 @@
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Secretaria**.
    - **Gerente**: Ingresa el nombre de **Laura Alonso Borbolla**.
-     ![compra1](/site/img/laura-u.png)
+     ![compra1](img/laura-u.png)
 3. Para crear a **Mario Fernández Puente**:
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Investigador**.
    - **Gerente**: Ingresa el nombre de **Mario Fernández Puente**.
-     ![compra1](/site/img/mario-u.png)
+     ![compra1](img/mario-u.png)
 4. Para crear a **Rimsha**:
    - **Departamento**: Selecciona **Ventas**.
    - **Puesto de trabajo**: Asigna **Responsable de Ventas y Productos**.
    - **Gerente**: Ingresa el nombre de **Rimsha**.
-     ![compra1](/site/img/rim-u.png)
+     ![compra1](img/rim-u.png)
 
      
 6. #### Imágenes de los Empleados
    Aspecto final de los **empleados**.
-   ![compra1](/site/img/empleados.png)
+   ![compra1](img/empleados.png)
 
 ---
 
@@ -109,14 +109,14 @@
      - **Correo Electrónico**: micros@abmicros.com
      - **Sitio Web**: [ABMICROS](https://empresite.eleconomista.es/ABMICROS-INTERNET.html)
      - **Etiquetas**: AB1
-       ![compra1](/site/img/abmicros.png)
+       ![compra1](img/abmicros.png)
    - Para **ENTER SOLUCIONES INFORMÁTOCAS**:
      - **Dirección**: Plaza de las Autonomias, 5 ground floor, 39300, Torrelavega
      - **Teléfono**: 42 808 505
      - **Correo Electrónico**: administracion@entersolucionesinformaticas.com
      - **Sitio Web**: [ENTER SOLUCIONES INFORMÁTOCAS](https://entersolucionesinformaticas.com/enter)
      - **Etiquetas**: ENI1
-       ![compra1](/site/img/enter.png)
+       ![compra1](img/enter.png)
 
 2. **Clientes Individuales**:
    - Para **María Angélica Fernández Roza**:
@@ -124,17 +124,17 @@
      - **Puesto de Trabajo**: Jefa
      - **Teléfono**: 1233456789
      - **Correo Electrónico**: afernandezroza@educantabria.es
-       ![compra1](/site/img/angelica.png)
+       ![compra1](img/angelica.png)
    - Para **Luis Miguel García Velázquez**:
      - **Dirección**: P.º de Julio Hauzeur, 59, 39300 Torrelavega, Cantabria
      - **Puesto de Trabajo**: Jefé
      - **Teléfono**: +34 942 89 03 16
      - **Correo Electrónico**: lgarciavelazquez@educantabria.es
-       ![compra1](/site/img/luis.png)
+       ![compra1](img/luis.png)
 
 #### Imágenes de los Clientes:
 - Aspecto final de los **Clientes**
-  ![compra1](/site/img/clientes.png)
+  ![compra1](img/clientes.png)
 
 ---
 
@@ -154,7 +154,7 @@
      - **Correo Electrónico**: customerservice@mediamarkt.es
      - **Sitio Web**: [Media Markt](https://www.mediamarkt.es/es)
      - **Etiquetas**: MediaM1
-       ![compra1](/site/img/mm.png)
+       ![compra1](img/mm.png)
 
    - Para **PC Componentes**:
      - **Dirección**: Avda. Europa, Parcelas 2-5 y 2-6 Polígono Industrial Las Salinas, 30840 Alhama de Murcia
@@ -162,11 +162,11 @@
      - **Correo Electrónico**: support@pccomponentes.com
      - **Sitio Web**: [PC Componentes](http://web www.pccomponentes.com)
      - **Etiquetas**: PC1
-       ![compra1](/site/img/PC.png)
+       ![compra1](img/PC.png)
 
    #### Imágenes de los Proveedores:
    - Aspecto final de los **Proveedore**
-     ![compra1](/site/img/proveedores.png)
+     ![compra1](img/proveedores.png)
 
 ---
 
