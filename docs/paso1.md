@@ -6,7 +6,7 @@ Este documento describe detalladamente las imágenes relacionadas con la configu
 
 Para acceder a Odoo, primero se presenta la pantalla de inicio de sesión, donde el usuario debe ingresar sus credenciales, como correo electrónico o nombre de usuario y contraseña. Una vez completados los campos, se utiliza el botón de inicio de sesión para acceder a la plataforma, lo que da paso a la interfaz principal de trabajo.
 
-![login-odoo](./site/img/login-odoo.PNG)
+![login-odoo](img/login-odoo.PNG)
 
 
 ---
