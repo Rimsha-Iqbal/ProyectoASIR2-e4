@@ -15,7 +15,7 @@ En este paso, realizaremos una **venta** en el sistema Odoo. Para ello, utilizar
 
 Realizar un **proceso de ventas eficiente** es crucial para mantener una buena relación con los clientes y garantizar un flujo constante de ingresos. En este paso, aprenderemos cómo gestionar correctamente un pedido, asegurando que los productos vendidos estén correctamente registrados y entregados.
 
-![compra1](/site/img/pedidos.png)
+![compra1](img/pedidos.png)
 ---
 
 ## Creación de un Pedido de Venta
@@ -52,7 +52,7 @@ Realizar un **proceso de ventas eficiente** es crucial para mantener una buena r
 
 Registrar correctamente los productos vendidos es fundamental para mantener una gestión adecuada del inventario y evitar errores en la facturación.
 
-![compra1](/site/img/venta2.png)
+![compra1](img/venta2.png)
 
 ---
 
@@ -72,12 +72,12 @@ Después de crear el pedido, procederemos a su facturación:
        
 4. Confirmar la factura y registrar el pago.
 
-![compra1](/site/img/venta3.png)  
+![compra1](img/venta3.png)  
 
 Un proceso de facturación correcto garantiza que la empresa mantenga un control adecuado sobre sus ingresos y facilite la contabilidad.
 
 
-![compra1](/site/img/factura.png)
+![compra1](img/factura.png)
 
 ---
 
@@ -90,7 +90,7 @@ Una vez facturado el pedido, es necesario gestionar la entrega:
 
 Gestionar correctamente la entrega de productos ayuda a evitar retrasos y mejora la experiencia del cliente.
 
-![compra1](/site/img/entregada.png)  
+![compra1](img/entregada.png)  
 
 
 ---
@@ -102,7 +102,7 @@ Gestionar correctamente la entrega de productos ayuda a evitar retrasos y mejora
   
 - **Captura del stock actualizado de Xiomi Cámara**
 
-  ![compra1](/site/img/stock-camera.png)
+  ![compra1](img/stock-camera.png)
  
 
 ---
