@@ -1,34 +1,35 @@
-site_name: "Guía de Configuración de Odoo Equipo4"
-site_url: "https://rimsha-iqbal.github.io/ProyectoASIR2-e4/"
-theme:
-  theme:
-  name: "material"  # Set the theme to mkdocs-material
-  language: "es"  # Set the language to Spanish
-  palette:
-    primary: "indigo"  # Main color of the theme
-    accent: "deep purple"  # Accent color
-  logo: "/site/img/favicon.ico"  # Optional logo image (you can leave this empty if you don't have one)
-  font:
-    text: "Roboto"  # Choose text font
-    code: "Monaco"  # Choose code font
+site_name: Creación de Sitios Usando Diferentes Temas en HUGO y MKDOCS
+site_url: https://rimsha-iqbal.github.io/ProyectoASIR2-e4/
 
 nav:
-  - Inicio: index.md
-  - Paso 1 - Configuración: paso1.md
-  - Paso 2 - Usuarios: paso2.md
-  - Paso 3 - Inventario: paso3.md
-  - Paso 4 - Gestión de una Compra: paso4.md
-  - Paso 5 - Gestión de una Venta: paso5.md
+  - HOME: index.md
+  - Configuración_general: paso1.md
+  - Usuarios_Clientes_y_Proveedores: paso2.md
+  - Inventario: paso3.md
+  - Gestión_de_una_compra: paso4.md
+  - Gestión_de_una_venta: paso5.md
 
-description: "Documentación de la configuración y uso de Odoo."
-keywords:
-  - odoo
-  - configuración
-  - empresa
-  - inventario
-  - compras
-  - ventas
+theme:
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
 
-markdown_extensions:
-  - toc:
-      permalink: true  # This enables the automatic table of contents with links
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+

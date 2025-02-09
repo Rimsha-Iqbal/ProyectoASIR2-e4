@@ -42,7 +42,7 @@
 #### Imágenes de los Usuarios del Sistema:
 - Creamos el primer usuario **Ana María Rodríguez Mendez**.
   
-  ![compra1](/site/img/1.png)
+  ![compra1](/sites/img/1.png)
   
 - Creamos el segundo usuario **Rimsha**.
   
