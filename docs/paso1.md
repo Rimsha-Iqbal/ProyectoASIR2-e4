@@ -1,3 +1,15 @@
+# Configuración: Información general empresa, instalación de idiomas y módulos
+## Tabla de Contenidos
+
+1. [Darse de alta en Odoo](#darse-de-alta-en-odoo)
+2. [Ajustes](#ajustes)
+3. [Gestión de la empresa](#gestión-de-la-empresa)
+4. [Nombre Empresa](#nombre-empresa)
+5. [Idiomas](#idiomas)
+6. [Aplicaciones](#aplicaciones)
+7. [Instalación confirmada](#instalación-confirmada)
+8. [Conclusión](#conclusión)
+   
 # Documentación de Imágenes de Configuración y Uso en Odoo
 
 Este documento describe detalladamente las imágenes relacionadas con la configuración y uso de Odoo, siguiendo el flujo lógico de inicio de sesión, configuración inicial y personalización del sistema.
