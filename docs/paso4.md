@@ -24,7 +24,7 @@ La gestión de compras en Odoo es un proceso clave para mantener un flujo de sto
 El propósito de este proceso es garantizar que nuestra empresa pueda abastecerse de los productos necesarios para su funcionamiento y posterior venta.  
 
 
-![compra1](/site/img/compra1.png)
+![compra1](img/compra1.png)
 
 
 
@@ -36,7 +36,7 @@ Para realizar un pedido de compra en Odoo, sigue estos pasos:
 
 1. Ir al módulo de **Compras**.  
 2. Acceder a **Productos de ventas**. 
-   ![compra1](/site/img/compra0.png)
+   ![compra1](img/compra0.png)
 4. Hacer clic en **"Nuevo"** para crear un pedido de compra.  
 5. Ingresar la información del proveedor, la moneda y la fecha de confirmación.  
 6. Agregar los productos deseados, especificando cantidad y precio por unidad.  
@@ -80,7 +80,7 @@ Para realizar un pedido de compra en Odoo, sigue estos pasos:
 - **IVA (21%)**: 455,70 €  
 - **Total**: 2.625,70 €  
 
-![compra1](/site/img/compra3.png)
+![compra1](img/compra3.png)
 
 ---
 
@@ -94,7 +94,7 @@ Una vez confirmado el pedido, los productos deben ser recibidos en el almacén.
 - **Fecha límite**: 07/02/2025 09:00:09  
 - **Documento de origen**: PS00001  
 
-![compra1](/site/img/WH-IN-00001.png) 
+![compra1](img/WH-IN-00001.png) 
 
 ---
 
@@ -126,7 +126,7 @@ En este caso, realizamos un nuevo pedido con diferentes productos.
 - **IVA (21%)**: 136,50 €  
 - **Total**: 2.786,50 €  
 
-  ![compra1](/site/img/compra4.png)
+  ![compra1](img/compra4.png)
 
 ---
 
@@ -137,7 +137,7 @@ Cuando los productos llegan a nuestro almacén, se realiza la recepción en Odoo
 - **Recibir de**: PC Componentes  
 - **Tipo de operación**: Electroshop S.L. Recepciones  
 
-![compra1](/site/img/WH-IN-00001.png) 
+![compra1](img/WH-IN-00001.png) 
 
 ---
 
@@ -147,19 +147,19 @@ Después de completar la recepción de productos, el stock de la empresa se actu
  
 Stock de **Cable de red RJ45 CAT8 U/FTP AWG 30**  
 
-![compra1](/site/img/compra5.png)
+![compra1](img/compra5.png)
 
 Stock de **Xiaomi Outdoor Camera IP WiF**  
 
-![compra1](/site/img/compra6.png)
+![compra1](img/compra6.png)
 
 Stock de **Apple AirPods 4 con Cancelación Activa**  
 
-![compra1](/site/img/compra7.png)
+![compra1](img/compra7.png)
 
 Stock de **Portátil ACER 3 15**
 
-![compra1](/site/img/compra8.png)  
+![compra1](img/compra8.png)  
 
 
 
@@ -176,7 +176,7 @@ Si deseas profundizar en la gestión de compras en Odoo, aquí tienes algunos tu
 
 ---
 
-### ✅ Conclusión  
+###  Conclusión  
 
 La gestión de compras en Odoo permite un control eficiente del inventario, asegurando que la empresa siempre tenga productos disponibles para la venta. Mediante la correcta ejecución de pedidos y recepciones, garantizamos un flujo de trabajo organizado y optimizado.  
 
