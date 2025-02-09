@@ -7,7 +7,7 @@ theme:
   palette:
     primary: "indigo"  # Main color of the theme
     accent: "deep purple"  # Accent color
-  logo: "images/logo.png"  # Optional logo image (you can leave this empty if you don't have one)
+  logo: "/site/img/favicon.ico"  # Optional logo image (you can leave this empty if you don't have one)
   font:
     text: "Roboto"  # Choose text font
     code: "Monaco"  # Choose code font
