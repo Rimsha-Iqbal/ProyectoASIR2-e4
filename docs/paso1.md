@@ -6,7 +6,7 @@ Este documento describe detalladamente las imágenes relacionadas con la configu
 
 Para acceder a Odoo, primero se presenta la pantalla de inicio de sesión, donde el usuario debe ingresar sus credenciales, como correo electrónico o nombre de usuario y contraseña. Una vez completados los campos, se utiliza el botón de inicio de sesión para acceder a la plataforma, lo que da paso a la interfaz principal de trabajo.
 
-![login-odoo](img/login-odoo.PNG)
+![login-odoo](img/login-odoo.png)
 
 
 ---
@@ -16,7 +16,7 @@ Para acceder a Odoo, primero se presenta la pantalla de inicio de sesión, donde
 
 Tras ingresar, es importante dirigirse al apartado de **Ajustes**, que permite configurar las opciones principales del sistema. Desde esta sección, se pueden personalizar los idiomas disponibles en la plataforma, habilitar funcionalidades específicas y gestionar parámetros generales y avanzados para adecuar la herramienta a los requerimientos de la empresa.
 
-![ajustes](img/ajustes.PNG)
+![ajustes](img/ajustes.png)
 
 ---
 
@@ -25,22 +25,22 @@ Tras ingresar, es importante dirigirse al apartado de **Ajustes**, que permite c
 
 En el siguiente paso, es esencial configurar la información relacionada con la compañía. Desde el apartado de **Gestión de Compañía**, se pueden definir elementos clave como el nombre de la empresa, su dirección física y fiscal, y cargar un logotipo u otros elementos visuales que reflejen la identidad corporativa. Estos datos son esenciales, ya que aparecerán en documentos oficiales como facturas, contratos y reportes.
 
-![gestionar-compañia](img/gestionar-compañia.PNG)
+![gestionar-compañia](img/gestionar-compañia.png)
 ---
 
 ## 4. Nombre Empresa 
 
 Dentro de las opciones de gestión empresarial, es crucial definir el **nombre de la empresa** correctamente, ya que este será utilizado en los documentos que genera automáticamente Odoo. Este dato es fundamental para garantizar una correcta representación de la identidad corporativa en las comunicaciones oficiales.  
 
-![nombre-empresa](img/nombre-esmpresa.PNG)
+![nombre-empresa](img/nombre-esmpresa.png)
 ---
 
 ## 5. **idiomas.PNG**
-![idiomas](img/idiomas.PNG)
+![idiomas](img/idiomas.png)
 
 En cuanto a la personalización de idiomas, se realizaron ajustes para que el sistema soporte español, inglés y francés, siendo el español configurado como el idioma principal. Además, se verificaron las traducciones disponibles en los diferentes módulos del sistema para asegurar que la experiencia de usuario fuera coherente y que todos los menús, secciones y funciones estuvieran correctamente localizados en el idioma seleccionado. 
 
-![resultado-idiomas](img/resultado-idiomas.PNG) 
+![resultado-idiomas](img/resultado-idiomas.png) 
 
 ---
 
@@ -49,7 +49,7 @@ En cuanto a la personalización de idiomas, se realizaron ajustes para que el si
 
 Una vez completada la configuración básica, se procedió a la instalación de aplicaciones desde el apartado de Aplicaciones. Entre los módulos instalados se encuentran el CRM, para la gestión de relaciones con los clientes; el módulo de Inventario, para el control de stock y la logística; y el módulo de Facturación, para la emisión de facturas personalizadas. Estas herramientas amplían significativamente las funcionalidades del sistema, asegurando que pueda cubrir todas las necesidades operativas de la empresa.
 
-![aplicaciones](img/aplicaciones.PNG)
+![aplicaciones](img/aplicaciones.png)
 
 ---
 
@@ -58,7 +58,7 @@ Una vez completada la configuración básica, se procedió a la instalación de 
 
 Finalmente, tras instalar las aplicaciones necesarias, se verificó que cada módulo funcionara correctamente y estuviera disponible para su uso. Este paso de confirmación asegura que la plataforma está lista para gestionar de manera eficiente las operaciones de la empresa y que cada detalle configurado está en línea con las necesidades específicas del negocio.
 
-![instalado](img/intalado.PNG)
+![instalado](img/intalado.png)
 ---
 
 ## Conclusión 
