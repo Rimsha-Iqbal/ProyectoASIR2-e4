@@ -68,28 +68,30 @@
 1. Para crear a **Ana María Rodríguez Mendez**:
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Portavoz**.
-   - **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.
+   - **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.  
      ![compra1](img/Ana-u.png)
+
 2. Para crear a **Laura Alonso Borbolla**:
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Secretaria**.
-   - **Gerente**: Ingresa el nombre de **Laura Alonso Borbolla**.
+   - **Gerente**: Ingresa el nombre de **Laura Alonso Borbolla**.  
      ![compra1](img/laura-u.png)
+
 3. Para crear a **Mario Fernández Puente**:
    - **Departamento**: Selecciona **Informática**.
    - **Puesto de trabajo**: Asigna **Investigador**.
-   - **Gerente**: Ingresa el nombre de **Mario Fernández Puente**.
+   - **Gerente**: Ingresa el nombre de **Mario Fernández Puente**.  
      ![compra1](img/mario-u.png)
+
 4. Para crear a **Rimsha**:
    - **Departamento**: Selecciona **Ventas**.
    - **Puesto de trabajo**: Asigna **Responsable de Ventas y Productos**.
-   - **Gerente**: Ingresa el nombre de **Rimsha**.
+   - **Gerente**: Ingresa el nombre de **Rimsha**.  
      ![compra1](img/rim-u.png)
 
-     
-5. #### Imágenes de los Empleados
-   Aspecto final de los **empleados**.
-   ![compra1](img/empleados.png)
+### Imágenes de los Empleados  
+Aspecto final de los **empleados**.  
+![compra1](img/empleados.png)
 
 ---
 
