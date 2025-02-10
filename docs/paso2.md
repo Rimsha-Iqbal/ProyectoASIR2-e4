@@ -66,9 +66,9 @@
 ### Paso 2: Crear los Empleados
 
 1. Para crear a **Ana María Rodríguez Mendez**:
-   - **Departamento**: Selecciona **Informática**.
-   - **Puesto de trabajo**: Asigna **Portavoz**.
-   - **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.
+   -**Departamento**: Selecciona **Informática**.
+   -**Puesto de trabajo**: Asigna **Portavoz**.
+   -**Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.
      ![compra1](img/Ana-u.png)
 2. Para crear a **Laura Alonso Borbolla**:
    - **Departamento**: Selecciona **Informática**.
@@ -104,11 +104,11 @@
 
 1. **Clientes Corporativos**:
    - Para **Abmicros Internet S.L.**:
-     - **Dirección**: Calle José María Pereda, 42-44, Torrelavega, 39300, Cantabria
-     - **Teléfono**: +34 942 89 52 61
-     - **Correo Electrónico**: micros@abmicros.com
-     - **Sitio Web**: [ABMICROS](https://empresite.eleconomista.es/ABMICROS-INTERNET.html)
-     - **Etiquetas**: AB1
+     -**Dirección**: Calle José María Pereda, 42-44, Torrelavega, 39300, Cantabria
+     -**Teléfono**: +34 942 89 52 61
+     -**Correo Electrónico**: micros@abmicros.com
+     -**Sitio Web**: [ABMICROS](https://empresite.eleconomista.es/ABMICROS-INTERNET.html)
+     -**Etiquetas**: AB1
        ![compra1](img/abmicros.png)
    - Para **ENTER SOLUCIONES INFORMÁTOCAS**:
      - **Dirección**: Plaza de las Autonomias, 5 ground floor, 39300, Torrelavega
@@ -164,7 +164,7 @@
      - **Etiquetas**: PC1
        ![compra1](img/PC.png)
 
-   #### Imágenes de los Proveedores:
+   ###Imágenes de los Proveedores:
    - Aspecto final de los **Proveedore**
      ![compra1](img/proveedores.png)
 
