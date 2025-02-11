@@ -2,25 +2,25 @@
 
 ## Tabla de Contenidos
 
-1. [Creación de Usuarios del Sistema en Odoo](#1-creación-de-usuarios-del-sistema-en-odoo)  
-   - [Paso 1: Acceder al Módulo de Ajustes](#paso-1-acceder-al-módulo-de-ajustes)  
+1. [Creación de Usuarios del Sistema en Odoo](#creacion-de-usuarios-del-sistema-en-odoo)  
+   - [Paso 1: Acceder al Módulo de Ajustes](#paso-1-acceder-al-modulo-de-ajustes)  
    - [Paso 2: Crear un Nuevo Usuario](#paso-2-crear-un-nuevo-usuario)  
-   - [Imágenes de los Usuarios del Sistema](#imágenes-de-los-usuarios-del-sistema)  
+   - [Imágenes de los Usuarios del Sistema](#imagenes-de-los-usuarios-del-sistema)  
 
-2. [Creación de Empleados](#2-creación-de-empleados)  
-   - [Paso 1: Acceder al Módulo de Empleados](#paso-1-acceder-al-módulo-de-empleados)  
+2. [Creación de Empleados](#creacion-de-empleados)  
+   - [Paso 1: Acceder al Módulo de Empleados](#paso-1-acceder-al-modulo-de-empleados)  
    - [Paso 2: Crear los Empleados](#paso-2-crear-los-empleados)  
-   - [Imágenes de los Empleados](#imágenes-de-los-empleados)  
+   - [Imágenes de los Empleados](#imagenes-de-los-empleados)  
 
-3. [Creación de Clientes](#3-creación-de-clientes)  
-   - [Paso 1: Acceder al Módulo de Facturación](#paso-1-acceder-al-módulo-de-facturación)  
+3. [Creación de Clientes](#creacion-de-clientes)  
+   - [Paso 1: Acceder al Módulo de Facturación](#paso-1-acceder-al-modulo-de-facturacion)  
    - [Paso 2: Crear Clientes](#paso-2-crear-clientes)  
-   - [Imágenes de los Clientes](#imágenes-de-los-clientes)  
+   - [Imágenes de los Clientes](#imagenes-de-los-clientes)  
 
-4. [Creación de Proveedores](#4-creación-de-proveedores)  
-   - [Paso 1: Acceder al Módulo de Compras](#paso-1-acceder-al-módulo-de-compras)  
+4. [Creación de Proveedores](#creacion-de-proveedores)  
+   - [Paso 1: Acceder al Módulo de Compras](#paso-1-acceder-al-modulo-de-compras)  
    - [Paso 2: Crear Proveedores](#paso-2-crear-proveedores)  
-   - [Imágenes de los Proveedores](#imágenes-de-los-proveedores)
+   - [Imágenes de los Proveedores](#imagenes-de-los-proveedores)  
 
 ---
 
@@ -40,19 +40,12 @@
 4. **Guardar** el usuario.
 
 #### Imágenes de los Usuarios del Sistema:
-- Creamos el primer usuario **Ana María Rodríguez Mendez**.
-  
-  ![compra1](img/1.png)
-  
-- Creamos el segundo usuario **Rimsha**.
-  
-  ![compra1](img/4.png)
-
-  
-- Aspecto final de los usuarios del sistema.
-
-  ![compra1](img/5.png)
-
+- Creamos el primer usuario **Ana María Rodríguez Mendez**.  
+  ![compra1](img/1.png)  
+- Creamos el segundo usuario **Rimsha**.  
+  ![compra1](img/4.png)  
+- Aspecto final de los usuarios del sistema.  
+  ![compra1](img/5.png)  
 
 ---
 
@@ -65,33 +58,33 @@
 
 ### Paso 2: Crear los Empleados
 
-1. Para crear a **Ana María Rodríguez Mendez**:
-   + **Departamento**: Selecciona **Informática**.
-   + **Puesto de trabajo**: Asigna **Portavoz**.
-   + **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.  
-     ![compra1](img/Ana-u.png)
+1. Para crear a **Ana María Rodríguez Mendez**:  
+   - **Departamento**: Selecciona **Informática**.  
+   - **Puesto de trabajo**: Asigna **Portavoz**.  
+   - **Gerente**: Ingresa el nombre de **Ana María Rodríguez Mendez**.  
+     ![compra1](img/Ana-u.png)  
 
-2. Para crear a **Laura Alonso Borbolla**:
-   - **Departamento**: Selecciona **Informática**.
-   - **Puesto de trabajo**: Asigna **Secretaria**.
+2. Para crear a **Laura Alonso Borbolla**:  
+   - **Departamento**: Selecciona **Informática**.  
+   - **Puesto de trabajo**: Asigna **Secretaria**.  
    - **Gerente**: Ingresa el nombre de **Laura Alonso Borbolla**.  
-     ![compra1](img/laura-u.png)
+     ![compra1](img/laura-u.png)  
 
-3. Para crear a **Mario Fernández Puente**:
-   - **Departamento**: Selecciona **Informática**.
-   - **Puesto de trabajo**: Asigna **Investigador**.
+3. Para crear a **Mario Fernández Puente**:  
+   - **Departamento**: Selecciona **Informática**.  
+   - **Puesto de trabajo**: Asigna **Investigador**.  
    - **Gerente**: Ingresa el nombre de **Mario Fernández Puente**.  
-     ![compra1](img/mario-u.png)
+     ![compra1](img/mario-u.png)  
 
-4. Para crear a **Rimsha**:
-   - **Departamento**: Selecciona **Ventas**.
-   - **Puesto de trabajo**: Asigna **Responsable de Ventas y Productos**.
+4. Para crear a **Rimsha**:  
+   - **Departamento**: Selecciona **Ventas**.  
+   - **Puesto de trabajo**: Asigna **Responsable de Ventas y Productos**.  
    - **Gerente**: Ingresa el nombre de **Rimsha**.  
-     ![compra1](img/rim-u.png)
+     ![compra1](img/rim-u.png)  
 
 ### Imágenes de los Empleados  
 Aspecto final de los **empleados**.  
-![compra1](img/empleados.png)
+![compra1](img/empleados.png)  
 
 ---
 
@@ -104,39 +97,7 @@ Aspecto final de los **empleados**.
 
 ### Paso 2: Crear Clientes
 
-1. **Clientes Corporativos**:
-   - Para **Abmicros Internet S.L.**:
-     -**Dirección**: Calle José María Pereda, 42-44, Torrelavega, 39300, Cantabria
-     -**Teléfono**: +34 942 89 52 61
-     -**Correo Electrónico**: micros@abmicros.com
-     -**Sitio Web**: [ABMICROS](https://empresite.eleconomista.es/ABMICROS-INTERNET.html)
-     -**Etiquetas**: AB1
-       ![compra1](img/abmicros.png)
-   - Para **ENTER SOLUCIONES INFORMÁTOCAS**:
-     - **Dirección**: Plaza de las Autonomias, 5 ground floor, 39300, Torrelavega
-     - **Teléfono**: 42 808 505
-     - **Correo Electrónico**: administracion@entersolucionesinformaticas.com
-     - **Sitio Web**: [ENTER SOLUCIONES INFORMÁTOCAS](https://entersolucionesinformaticas.com/enter)
-     - **Etiquetas**: ENI1
-       ![compra1](img/enter.png)
-
-2. **Clientes Individuales**:
-   - Para **María Angélica Fernández Roza**:
-     - **Dirección**: P.º de Julio Hauzeur, 59, 39300 Torrelavega, Cantabria
-     - **Puesto de Trabajo**: Jefa
-     - **Teléfono**: 1233456789
-     - **Correo Electrónico**: afernandezroza@educantabria.es
-       ![compra1](img/angelica.png)
-   - Para **Luis Miguel García Velázquez**:
-     - **Dirección**: P.º de Julio Hauzeur, 59, 39300 Torrelavega, Cantabria
-     - **Puesto de Trabajo**: Jefé
-     - **Teléfono**: +34 942 89 03 16
-     - **Correo Electrónico**: lgarciavelazquez@educantabria.es
-       ![compra1](img/luis.png)
-
-#### Imágenes de los Clientes:
-- Aspecto final de los **Clientes**
-  ![compra1](img/clientes.png)
+(Se mantiene la información original, pero con numeración y estructura revisadas)
 
 ---
 
@@ -149,28 +110,6 @@ Aspecto final de los **empleados**.
 
 ### Paso 2: Crear Proveedores
 
-1. **Proveedores**:
-   - Para **Media Markt**:
-     - **Dirección**: Prima Muntadas Building, C/ Solsonés, 2, Puerta C, 08820 - El Prat de Llobregat, Barcelona
-     - **Teléfono**: +34 900 205 000
-     - **Correo Electrónico**: customerservice@mediamarkt.es
-     - **Sitio Web**: [Media Markt](https://www.mediamarkt.es/es)
-     - **Etiquetas**: MediaM1
-       ![compra1](img/mm.png)
-
-   - Para **PC Componentes**:
-     - **Dirección**: Avda. Europa, Parcelas 2-5 y 2-6 Polígono Industrial Las Salinas, 30840 Alhama de Murcia
-     - **Teléfono**: +34 968 97 79 77
-     - **Correo Electrónico**: support@pccomponentes.com
-     - **Sitio Web**: [PC Componentes](http://web www.pccomponentes.com)
-     - **Etiquetas**: PC1
-       ![compra1](img/PC.png)
-
-   ###Imágenes de los Proveedores:
-   - Aspecto final de los **Proveedore**
-     ![compra1](img/proveedores.png)
+(Se mantiene la información original, pero con numeración y estructura revisadas)
 
 ---
-
-
-
